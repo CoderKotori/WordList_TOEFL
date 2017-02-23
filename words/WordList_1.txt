@@ -10,3 +10,68 @@ abrupt  a.突然的，意外的
 absolutely  ad.完全地；绝对地
 absorb  vt.吸收
 abstract  a.抽象的；抽象派的
+absurd  a.可笑的，荒唐的
+abundant  a.充足的，丰富的
+academy  n.研究会，学术团体；专门院校
+accelerate  v.（使）加快，加速
+access  n.通道；（接近或享用的）机会 vt.存取
+accessible  a.易接近的；可得到的
+accessory  n.附件，零件
+acclaim  vt./n.喝彩；称赞
+accommodate  vt.供应（住宿或房间）；使适应
+accompany  vt.陪伴；为…伴奏
+accomplish  vt.达到；完成
+accomplished  a.多才多艺的；完成了的
+accord  n.一致；符合
+account  n.解释；账户；考虑 v.说明…的原因
+accumulate  v.积累，堆积
+accuracy  n.准确（性），精确（性）
+accurate  a.正确的，精确的
+accuse  vt.指责，归咎；指控
+accustom  vt.使习惯于
+acid  n.酸 a.酸的
+acknowledge  vt.承认，确认；对…表示感谢
+acoustic  a.非电声乐器的；听觉的
+acquaint  vt.使认识；使熟悉
+acquire  vt.获得；学到
+acting  a.代理的 n.演戏，表演
+action  n.行为，活动；作用
+activity  n.活动；活跃
+acute  a.极度的，（事情）激烈的；敏锐的
+adapt  v.使适合；调整
+additional  a.附加的，额外的
+additive  a.添加的；加法的 n.添加剂
+address  n.地址；讲话 v.（正式）讲话；写姓名地址
+adequate  a.适当的；足够的
+adhere  vi.粘附；坚持
+adhesive  a.带粘性的 n.胶合剂
+adjacent  a.邻近的
+adjunct  n.附加物，附件
+adjust  v.调整；使适合；适应
+administer  vt.管理；执行
+admire  vt.钦佩；欣赏
+admission  n.准许进入；入场费；承认
+admit  v.承认；接纳
+adobe  n.泥砖，土坯
+adolescence  n.青春期
+adopt  vt.采用
+adorn  vt.装饰，装扮
+advanced  a.先进的；高级的
+advent  n.到来，出现
+adventure  n.奇遇；冒险活动
+adverse  a.负面的；不利的
+advertise  v.登广告宣传；宣传
+advocate  vt.提倡 n.倡导者
+aerial  a.空中的
+aerobic  a.增氧健身法的 [pl.]n.有氧运动
+aesthetic  a.美学的；审美的
+affection  n.喜爱；影响
+affirm  vt.断言，坚持声称
+afflict  vt.使苦恼，折磨
+afford  vt.买得起；冒险做；提供
+agency  n.代理处；（政府等的）专门行政部门
+aggregate  n.聚成岩；聚集物
+aggressive  a.挑衅的；强有力的
+agreeable  a.使人愉悦的；欣然同意的
+airborne  a.空气传播的
+alarm  n,闹钟；警报 v.使惊恐
